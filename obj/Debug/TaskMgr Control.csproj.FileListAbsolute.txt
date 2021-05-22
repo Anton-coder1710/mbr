@@ -1,0 +1,10 @@
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\bin\Debug\TaskMgr Control.exe.config
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\bin\Debug\TaskMgr Control.exe
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\bin\Debug\TaskMgr Control.pdb
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\obj\Debug\TaskMgr Control.csprojAssemblyReference.cache
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\obj\Debug\TaskMgr_Control.Form1.resources
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\obj\Debug\TaskMgr_Control.Properties.Resources.resources
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\obj\Debug\TaskMgr Control.csproj.GenerateResource.cache
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\obj\Debug\TaskMgr Control.csproj.CoreCompileInputs.cache
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\obj\Debug\TaskMgr Control.exe
+C:\Users\runneradmin\source\repos\TaskMgr Control\TaskMgr Control\obj\Debug\TaskMgr Control.pdb
